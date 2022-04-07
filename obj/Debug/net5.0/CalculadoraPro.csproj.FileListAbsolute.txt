@@ -1,0 +1,16 @@
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\bin\Debug\net5.0\CalculadoraPro.exe
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\bin\Debug\net5.0\CalculadoraPro.deps.json
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\bin\Debug\net5.0\CalculadoraPro.runtimeconfig.json
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\bin\Debug\net5.0\CalculadoraPro.runtimeconfig.dev.json
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\bin\Debug\net5.0\CalculadoraPro.dll
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\bin\Debug\net5.0\ref\CalculadoraPro.dll
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\bin\Debug\net5.0\CalculadoraPro.pdb
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\obj\Debug\net5.0\CalculadoraPro.csproj.AssemblyReference.cache
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\obj\Debug\net5.0\CalculadoraPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\obj\Debug\net5.0\CalculadoraPro.AssemblyInfoInputs.cache
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\obj\Debug\net5.0\CalculadoraPro.AssemblyInfo.cs
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\obj\Debug\net5.0\CalculadoraPro.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\obj\Debug\net5.0\CalculadoraPro.dll
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\obj\Debug\net5.0\ref\CalculadoraPro.dll
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\obj\Debug\net5.0\CalculadoraPro.pdb
+C:\Users\Samuel Flores\source\repos\CalculadoraPro\CalculadoraPro\obj\Debug\net5.0\CalculadoraPro.genruntimeconfig.cache
